@@ -1,1 +1,1 @@
-# IT342---StudySpace
+# IT342-G6-StudySpace
