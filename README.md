@@ -11,8 +11,10 @@
 - _TBA_ 🔜
 
 ## **Links:**
-- 🎨**Figma Design**: https://www.figma.com/design/UzWxHlyvLYQ9w2bG8DFiVg/Untitled?node-id=0-1&t=P5EEaX5w4euXrPKC-1
-- 🗓️**Gantt Chart**: _TBA_
+- 🎨 **Figma Design**: [View Design](https://www.figma.com/design/UzWxHlyvLYQ9w2bG8DFiVg/Untitled?node-id=0-1&t=P5EEaX5w4euXrPKC-1)
+- 🗓️ **Gantt Chart**: *TBA*
+- 📊 **Use Case Diagram**: *TBA*
+- 📑 **ERD**: *TBA*
 
 ---
 
