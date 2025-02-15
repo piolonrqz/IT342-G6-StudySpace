@@ -12,9 +12,9 @@
 
 ## **Links:**
 - 🎨 **Figma Design**: [View Design](https://www.figma.com/design/UzWxHlyvLYQ9w2bG8DFiVg/Untitled?node-id=0-1&t=P5EEaX5w4euXrPKC-1)
-- 🗓️ **Gantt Chart**: *TBA*
+- 🗓️ **Gantt Chart**: [View GanttChart](https://cebuinstituteoftechnology-my.sharepoint.com/:x:/g/personal/piolofrances_enriquez_cit_edu/EVlZEJ6-lRRMqT0rcz-dJMEBkSxhEP6_ht1xJ2wotC-O7g?e=GNIZlA)
 - 📊 **Use Case Diagram**: *TBA*
-- 📑 **ERD**: *TBA*
+- 📑 **ERD**: [View ERD](https://lucid.app/lucidchart/3540d40b-3181-48e3-8833-ee78be5f3a35/edit?view_items=PC-SP5FsH_zY&invitationId=inv_a0702a93-f6ee-4b80-b53c-266bb931f6ae)
 
 ---
 
